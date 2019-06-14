@@ -8,8 +8,8 @@ The data set also contains customer demographics (age, gender, marital status, c
 Now, they want to build a model to predict the purchase amount of customer against various products which will help them to create personalized offer for customers against different products.
 
 Data Set Description:-
-Variable: Definition
-User_ID: User ID
+  1) Variable: Definition
+  2) User_ID: User ID
 Product_ID: Product ID
 Gender: Sex of User
 Age: Age in bins
