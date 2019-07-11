@@ -26,6 +26,7 @@ Data Set Description:-
   1) 26-35 age group people are more likely to spend more as compared to any other age group.
   2) 0-17 and 55+ age group people are least likely to spend much as compared to other age groups.
   3) Assuming high 'Occupation' level means high salary, then
-    - People with low 'Occuaption' levels contribute to majority of sales.
-    - People with high 'Occupation' levels contribute much less to the total sales.
+  
+      - People with low 'Occuaption' levels contribute to majority of sales.
+      - People with high 'Occupation' levels contribute much less to the total sales.
   4) Unmarried people spend more than their counterparts.
